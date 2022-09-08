@@ -1,14 +1,54 @@
-#container ,p    {
-    padding: 10px;
-    font-size: 17px;
-    color: rgb(0, 0, 0);
-    
+#containerI {
+    position: relative; 
+    left: 51em;
+    bottom: -3em;
+
 }
 
-#container ,h2 {
-    padding: 50px;
-    font-size: 22,8px;
-    color:rgb(0, 0, 0)
-    
+#containerF {
+    position: relative; 
+    left: 37em;
+    bottom: 5em;
+}
+#containerSM {
+    position: relative; 
+    left: 35em;
+    bottom: 3em;
+ 
+}
+#containerE {
+    position: relative; 
+    left: 54em;
+    bottom: 36em; 
+}
+#containerB {
+    position: relative; 
+    left: 41em;
+    bottom: 44em; 
 }
 
+
+
+-------------------------------------------------------------------
+
+#inicio {
+    left: 1em;
+    background-color
+    : aqua;
+}
+
+
+#Sobremim {
+    font-size: 13.3px;
+}
+
+#formacao {
+    position:relative;
+    left:10em;
+    bottom:9em;
+}
+
+#datas {
+    position:relative;
+    bottom:-1em;
+}
